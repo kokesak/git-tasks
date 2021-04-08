@@ -15,3 +15,8 @@ Computer usage
 In the age of computers, this pangram is commonly used to display font samples and for testing computer keyboards. In cryptography, it is commonly used as a test vector for hash and encryption algorithms to verify their implementation, as well as to ensure alphabetic character set compatibility.[citation needed]
 
 Microsoft Word has a command to auto-type the sentence, in versions up to Word 2003, using the command =rand(), and in Microsoft Office Word 2007 and later using the command =rand.old().[10]
+
+Cultural references
+Numerous references to the phrase have occurred in movies, television, books, video games, advertising, websites, and graphic arts.
+
+The lipogrammatic novel Ella Minnow Pea by Mark Dunn is built entirely around the "quick brown fox" pangram and its inventor. It depicts a fictional country off the South Carolina coast that idealizes the pangram, chronicling the effects on literature and social structure as various letters are banned from daily use by government dictum.[11]
