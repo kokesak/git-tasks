@@ -10,3 +10,8 @@ As the use of typewriters grew in the late 19th century, the phrase began appear
 The first message sent on the Moscow–Washington hotline on August 30, 1963, was the test phrase "THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG'S BACK 1234567890".[7] Later, during testing, the Russian translators sent a message asking their American counterparts, "What does it mean when your people say 'The quick brown fox jumped over the lazy dog'?"[8]
 
 During the 20th century, technicians tested typewriters and teleprinters by typing the sentence.[9]
+
+Computer usage
+In the age of computers, this pangram is commonly used to display font samples and for testing computer keyboards. In cryptography, it is commonly used as a test vector for hash and encryption algorithms to verify their implementation, as well as to ensure alphabetic character set compatibility.[citation needed]
+
+Microsoft Word has a command to auto-type the sentence, in versions up to Word 2003, using the command =rand(), and in Microsoft Office Word 2007 and later using the command =rand.old().[10]
